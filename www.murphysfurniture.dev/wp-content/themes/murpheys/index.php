@@ -12,7 +12,11 @@
 
 		</div>
 		<div>
+<<<<<<< HEAD
 			
+=======
+
+>>>>>>> ArtDezign/master
 		</div>
 	</div>
 	
