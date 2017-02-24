@@ -12,7 +12,6 @@
 
 		</div>
 		<div>
-			<img src="<?php echo get_template_directory_uri().'/images/passing_moments.jpg' ?>"/> 
 
 		</div>
 	</div>

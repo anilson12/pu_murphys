@@ -6,6 +6,6 @@
       </div>
       <h1><?php echo get_bloginfo('name'); ?></h1>
       <h3><?php echo get_bloginfo('description'); ?><h3>
-      <?php wp_nav_menu( array('menu => 'Header Menu')); ?>
+      <?php wp_nav_menu( array('menu' => 'Header Menu')); ?>
 </div>
           
